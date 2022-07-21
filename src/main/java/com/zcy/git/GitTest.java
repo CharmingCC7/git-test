@@ -1,0 +1,11 @@
+package com.zcy.git;
+
+/**
+ * @author 冠军
+ * @version 1.0
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!!!");
+    }
+}
